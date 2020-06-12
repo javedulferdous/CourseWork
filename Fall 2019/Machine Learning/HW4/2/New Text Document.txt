@@ -1,0 +1,1 @@
+MIN has the advantage than MAX and average because it can handle non-elliptical shapes
